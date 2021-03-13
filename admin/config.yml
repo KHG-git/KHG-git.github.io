@@ -1,6 +1,7 @@
 backend:
   name: github
-  repo: sujaykundu777/sujaykundu777.github.io
+#  repo: sujaykundu777/sujaykundu777.github.io
+  repo: KHG-git/KHG-git.github.io
   branch: master
   site_domain: agitated-northcutt-53b578.netlify.app
 
